@@ -1,3 +1,8 @@
+# Important Note
+This repository has not been updated to support MetaHuman characters created in MetaHuman Creator in Unreal Engine 5.6.
+Characters created in Unreal Engine 5.6 should be edited using the new MetaHuman for Maya plugin, available for download on Fab.
+This repository remains compatible with characters created in Unreal Engine 5.5 or earlier.
+
 # MetaHuman DNA Calibration
 MetaHuman DNA Calibration is a set of tools used for working with MetaHuman DNA files, bundled into a single package.
 [`DNA`](/docs/dna.md#metahuman-dna) is an integral part of [MetaHuman](https://www.unrealengine.com/en-US/metahuman) identity.
